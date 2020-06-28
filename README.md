@@ -5,4 +5,5 @@ Features:
 Clock,
 To do list,
 Weather,
+Location,
 Daily Photo
